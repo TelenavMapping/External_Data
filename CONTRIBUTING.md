@@ -6,4 +6,4 @@ If you don't see a mapping project your question, suggestion or concern relates 
 
 If you have a comment or concern about a specific changeset, it's probably best to use the OSM changeset comment feature to address it there.
 
-You can find a list of all of our team members [here](https://github.com/TelenavMapping/mapping-projects/wiki/Team) if you want to get in touch with one of us individually. All our team members' OSM usernames start with `telenav_`. 
+You can find a list of all of our team members [here](https://github.com/TelenavMapping/mapping-projects/wiki/Team) if you want to get in touch with one of us individually. All our team members' OSM usernames end in `_telenav`. 
